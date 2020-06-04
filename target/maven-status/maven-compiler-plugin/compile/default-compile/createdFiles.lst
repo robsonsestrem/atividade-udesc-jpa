@@ -1,0 +1,14 @@
+br\com\udesc\atividade\dao\DBA_DAO.class
+br\com\udesc\atividade\entidades\SolicitacaoServico.class
+br\com\udesc\atividade\dao\SolicitacaoDAO.class
+br\com\udesc\atividade\entidades\DBA.class
+br\com\udesc\atividade\entidades\Server_.class
+br\com\udesc\atividade\dao\AtividadesDAO.class
+br\com\udesc\atividade\view\Principal.class
+br\com\udesc\atividade\entidades\Server.class
+br\com\udesc\atividade\entidades\DBA_.class
+br\com\udesc\atividade\entidades\SolicitacaoServico_.class
+br\com\udesc\atividade\dao\DAO.class
+br\com\udesc\atividade\entidades\Atividades.class
+br\com\udesc\atividade\dao\ServerDAO.class
+br\com\udesc\atividade\entidades\Atividades_.class
