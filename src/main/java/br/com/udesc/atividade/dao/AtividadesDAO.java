@@ -7,7 +7,7 @@ import javax.persistence.Query;
 
 /**
  *
- * @author SYSADMIN
+ * @author robson
  */
 public class AtividadesDAO extends DAO {
 

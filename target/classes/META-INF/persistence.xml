@@ -7,11 +7,11 @@
     <class>br.com.udesc.atividade.entidades.Server</class>
     <class>br.com.udesc.atividade.entidades.DBA</class>
     <properties>
-      <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://localhost:5432/atividade_udesc_jpa"/>
+      <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://localhost:5432/atividade-udesc-jpa"/>
       <property name="javax.persistence.jdbc.user" value="postgres"/>
       <property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver"/>
       <property name="javax.persistence.jdbc.password" value="123456"/>
-      <property name="javax.persistence.schema-generation.database.action" value="drop-and-create"/>
+      <property name="javax.persistence.schema-generation.database.action" value="create"/>
     </properties>
   </persistence-unit>
 </persistence>
