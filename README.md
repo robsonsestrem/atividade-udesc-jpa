@@ -1,4 +1,4 @@
-# Descrição da atividade
+## Descrição da atividade
 Criar um modelo de entidade-relacionamento de um sistema contendo pelo menos cinco entidades com um mínimo de 3 atributos cada, um
 relacionamento muitos-para-muitos, um um-para-muitos e um relacionamento muitos-para-um.
 Implementar um projeto do sistema baseado neste modelo de entidade-relacionamento em Java com a camada de persistência utilizando JPA. 
